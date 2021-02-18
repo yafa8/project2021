@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 000A-73E5
+
+ Directory of C:\Users\Imen\Desktop\Testt2021
+
+02/18/2021  06:56 PM    <DIR>          .
+02/18/2021  06:56 PM    <DIR>          ..
+02/18/2021  06:56 PM                 0 test2021.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  74,127,273,984 bytes free
